@@ -1,0 +1,82 @@
+@import url('https://fonts.google.com/share?selection.family=Zen%20Dots');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Zen Dots', cursive;
+}
+h1,h2{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    color: #2B1B17;
+}
+h2{
+    font-family: 'Fredoka One', cursive;
+    text-align: left;
+}
+#pic{
+    margin-top: 10px;
+}
+body{
+    background-color:#E5E4E2;
+}
+.card{
+    width: 700px;
+   margin-left: 140px;
+   height: 300px;
+   background-color: #95B9C7;
+}
+#btn{
+    margin-left: 260px;
+    margin-top: 10px;
+    
+}
+h3{
+    color: rgb(241, 194, 132);
+}
+@media screen and (max-width: 600px) {
+    .card{
+      margin-left: 10px;
+      height: 400px;
+      width: 400px;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .card{
+      margin-left: 10px;
+      height: 400px;
+      width: 600px;
+    }
+  }
+  h2{
+      color: #6D7B8D;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  h4{
+      color: #1569C7;
+      
+  }
+  #p{
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 20px;
+  }
+  .footer{
+      background-color: #646D7E;
+      height: 200px;
+  }
+  #col1{
+      margin-bottom: 48px;
+      margin-top: 18px;
+      
+      
+  }
+#para{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    color: #809dd8;
+    margin-top: 40px;
+}
+
+ 

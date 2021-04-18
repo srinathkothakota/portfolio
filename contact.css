@@ -1,0 +1,21 @@
+@import url('https://fonts.google.com/share?selection.family=Fredoka%20One');
+#form
+{
+    text-align: center;
+    background-color: #BCC6CC;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+    border-radius: 6px;
+    border: 1px solid black;
+    font-family: 'Fredoka One', cursive;
+}
+h1{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#btnn
+{
+    margin-bottom: 10px;
+    font-family: 'Fredoka One', cursive;
+}
